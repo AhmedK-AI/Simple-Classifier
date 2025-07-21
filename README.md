@@ -1,7 +1,3 @@
-Here’s a simplified version of your `README`:
-
----
-
 # Text Sentiment Classifier
 
 ## Project Overview
