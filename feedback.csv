@@ -1,0 +1,121 @@
+id,message,sentiment
+1,"The delivery was super fast and the packaging was neat!",1
+2,"Terrible service. My order arrived a week late and damaged.",0
+3,"Absolutely love the user interface, very intuitive!",1
+4,"The support team didn’t respond to my emails. Very disappointed.",0
+5,"Great experience overall. Will definitely shop again.",1
+6,"I’m unhappy with the product quality. It feels cheap.",0
+7,"Excellent customer support and quick resolution to my issue.",1
+8,"The app keeps crashing every time I try to log in.",0
+9,"I found what I needed easily, and checkout was smooth.",1
+10,"No tracking number was provided. I had no idea where my package was.",0
+11,"Easy to use website and fast processing.",1
+12,"It took forever to get a response from your team.",0
+13,"Impressed with the fast delivery and updates via email.",1
+14,"The product didn’t match the description at all.",0
+15,"Very user-friendly design. Everything was clear and simple.",1
+16,"Received the wrong item. Had to wait another week for replacement.",0
+17,"Very pleased with the customer service I received.",1
+18,"Website is confusing and hard to navigate.",0
+19,"Fast shipping and excellent communication!",1
+20,"The product arrived broken. Not happy.",0
+21,"Everything worked perfectly. Great experience!",1
+22,"I had to call multiple times to get an update.",0
+23,"Love how seamless the purchase process was.",1
+24,"The item feels cheap and poorly made.",0
+25,"Customer care was very helpful and polite.",1
+26,"No one replied to my support ticket for days.",0
+27,"Checkout was fast and easy. Thanks!",1
+28,"Disappointed with the service. Will not return.",0
+29,"Exactly what I ordered. Perfect condition!",1
+30,"Site was down when I tried to order.",0
+31,"Quick and efficient delivery process.",1
+32,"Bad packaging, my product got scratched.",0
+33,"Really liked the follow-up emails after purchase.",1
+34,"Refund process is too complicated.",0
+35,"Pleasantly surprised by the product quality.",1
+36,"Not worth the money I paid.",0
+37,"Great value for the price. Highly recommend!",1
+38,"Never got my confirmation email. Had to call support.",0
+39,"App interface is clean and responsive.",1
+40,"Too many bugs in the app. Keeps freezing.",0
+41,"Very satisfied with both the product and service.",1
+42,"They promised next-day delivery but it took 5 days.",0
+43,"Superb experience from start to finish!",1
+44,"The product smells weird. Returned immediately.",0
+45,"Effortless ordering process and prompt updates.",1
+46,"Tried to cancel the order but couldn’t.",0
+47,"High-quality item and timely shipping.",1
+48,"Had a hard time applying the discount code.",0
+49,"Support staff went above and beyond.",1
+50,"Too expensive for what it offers.",0
+51,"Smooth app performance and excellent UX.",1
+52,"Delivery guy left the package in the rain.",0
+53,"Thrilled with the way my issue was handled.",1
+54,"Not user-friendly for first-time buyers.",0
+55,"Product exceeded my expectations!",1
+56,"Couldn’t log into my account for days.",0
+57,"Very intuitive platform. Loved it.",1
+58,"Misleading product images on the site.",0
+59,"Everything was perfect, from purchase to delivery.",1
+60,"My order was cancelled without any reason.",0
+61,"The loyalty program is a great bonus!",1
+62,"Didn’t receive all the items I paid for.",0
+63,"App is easy to use and performs well.",1
+64,"Poor experience with the live chat assistant.",0
+65,"Very happy with the speedy service and quality.",1
+66,"The product description was misleading and wrong.",0
+67,"Customer service was incredibly responsive and helpful.",1
+68,"Item arrived without pieces it was supposed to have.",0
+69,"Ordering again because this was such a smooth process.",1
+70,"Terrible return policy and no refunds.",0
+71,"Fast updates via email kept me informed.",1
+72,"The app sent me errors every time I tried to order.",0
+73,"Pleasantly surprised by the sound quality!",1
+74,"Received the wrong color and they won't exchange it.",0
+75,"Exactly match to the website’s images!",1
+76,"Had to pay extra for shipping I wasn’t notified about.",0
+77,"Wonderful buying experience overall.",1
+78,"The packaging got ripped and product scratched.",0
+79,"The UI is clean, modern, and useful.",1
+80,"Lost my order tracking and couldn't find support.",0
+81,"Product feels premium and well made.",1
+82,"I was charged twice and no one helped me.",0
+83,"Love the way they handled my complaint efficiently.",1
+84,"App crashed mid-checkout and wiped my cart.",0
+85,"Very good value for this price point.",1
+86,"Got the wrong size despite correct order.",0
+87,"Fast delivery and great condition.",1
+88,"Product quality deteriorated after first use.",0
+89,"Easy subscription and cancellation process.",1
+90,"The loyalty code didn’t apply at checkout.",0
+91,"Fantastic user experience on the website!",1
+92,"No order confirmation sent after purchase.",0
+93,"The gift wrapping looked beautiful.",1
+94,"Item arrived late despite paying for priority shipping.",0
+95,"Smooth app interface – purchasing was a breeze.",1
+96,"Customer support didn't follow up after my chat.",0
+97,"Highly recommend this brand and its service.",1
+98,"The promotional deal didn't apply correctly.",0
+99,"Super easy returns when I changed my mind.",1
+100,"This is my third purchase–always impressed!",1
+101,"Charged taxes that were not disclosed upfront.",0
+102,"Order arrived exactly as described. Thank you!",1
+103,"Email notifications stopped midway.",0
+104,"Seller gave great packaging and presentation.",1
+105,"Too many spammy follow-up emails after purchase.",0
+106,"Website performance was fast and reliable.",1
+107,"Got a defective part, had to reorder replacement.",0
+108,"Excellent FAQ section, answered all my questions.",1
+109,"Confusing terms and conditions, felt bait-and-switch.",0
+110,"Perfect match for the product I needed.",1
+111,"Spent an hour looking for customer support contact info.",0
+112,"Notifications let me know status every step of the way.",1
+113,"Wrong billing amount, had to dispute it.",0
+114,"Payment process was smooth and secure.",1
+115,"Item I ordered wasn't in stock but not refunded.",0
+116,"App layout is intuitive and appealing.",1
+117,"Received damaged item but refund was processed quickly.",1
+118,"They added an extra month to my subscription without notice.",0
+119,"Very clear size guide, helped me pick the right fit.",1
+120,"Website took me back to homepage after payment—terrifying.",0
